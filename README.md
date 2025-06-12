@@ -1,12 +1,12 @@
-# 🧠 AI-Driven Insurance Underwriting with Traditional and Wearable Health Data
+# AI-Driven Insurance Underwriting with Traditional and Wearable Health Data
 
-## 📘 Overview
+## Overview
 
 This project explores the use of Data Science (DS) and Artificial Intelligence (AI) techniques to enhance traditional insurance underwriting by integrating alternative health data such as electronic health records (EHR) and biometric wearables. The goal is to build a predictive, transparent, and responsible model that improves underwriting accuracy, turnaround time, and decision support for insurers.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Predict insurance application approval based on health-related data
 - Incorporate both traditional (e.g., age, BMI) and alternative data (e.g., heart rate, sleep)
@@ -15,7 +15,7 @@ This project explores the use of Data Science (DS) and Artificial Intelligence (
 
 ---
 
-## 🧾 Data Description
+## Data Description
 
 | Data Type        | Features Included                                                 |
 |------------------|-------------------------------------------------------------------|
@@ -27,7 +27,7 @@ This project explores the use of Data Science (DS) and Artificial Intelligence (
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 - **Python 3.9+**
 - `pandas`, `numpy`, `scikit-learn` – Data handling and ML
@@ -38,7 +38,7 @@ This project explores the use of Data Science (DS) and Artificial Intelligence (
 
 ---
 
-## 🚀 Model Development Workflow
+## Model Development Workflow
 
 1. **Data Simulation & Preprocessing**
    - Created a 1000-sample dataset with both traditional and wearable health metrics
